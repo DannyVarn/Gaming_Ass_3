@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Icons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 100
+      maxTextureSize: 2048
+      textureCompression: 2
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 1
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 701f8d3b6112e8d4c80ce90b73cd22d4, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b7d19ec039fa7b141bd165aa95496c75, type: 3}
+  - {fileID: 21300000, guid: dbaa50961e3cd37468021eb65d631c9f, type: 3}
+  - {fileID: 21300000, guid: 60c1d42986dc0094c808b9e135f31ba2, type: 3}
+  - {fileID: 21300000, guid: e41335ed24c5d4641b9e03ec7a6adcd0, type: 3}
+  - {fileID: 21300000, guid: 6f17b16f02b2246499ac554b97a16d4a, type: 3}
+  - {fileID: 21300000, guid: 5df4b9cfda870304c9e2decfcc0b094f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SmallPotion
+  - Grog
+  - Apple
+  - Cheese
+  - ChickenLeg
+  - HandBomb
+  m_RenderDataMap: {}
+  m_Tag: Icons
+  m_IsVariant: 0
